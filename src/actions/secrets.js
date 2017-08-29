@@ -1,5 +1,5 @@
-const username = 'LuisLocon';
-const password = 'Jupiter29';
+const username = 'XXXXXXX';
+const password = 'XXXXXXX';
 
 
 export {username, password};
